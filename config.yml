@@ -145,10 +145,10 @@ params:
   categories:
     - name: Server- Media
       description: Media applications used by Serverus Services. 
-      closed: true
+      closed: false
     - name: Server- Requests
       description: Media applications used by Serverus Services for processing requests. 
-      closed: true
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
