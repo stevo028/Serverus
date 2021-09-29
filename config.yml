@@ -161,7 +161,7 @@ params:
     - name: ServerusFlix (Plex Server)
       description: Plex server managed by Serverus Services. 
       category: Server- Media
-    - name: Overseerr
+    - name: ServerusRequests (Overseerr)
       description: Request application used to process requests. 
       category: Server- Requests
 
